@@ -207,7 +207,7 @@ ol {
   border: 1px solid #FFF;
   background-color: transparent;
   cursor: pointer;
-  margin: 1px;
+  margin: 2px;
 }
 
 .search-form__submit-button {
@@ -219,7 +219,6 @@ ol {
 .more-button {
   width: 399px;
   height: 34px;
-  
 }
 
 .search-form__textfield:focus {
